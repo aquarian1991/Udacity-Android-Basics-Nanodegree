@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Media Player</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="homeActivity">Will display a list of songs matching your selection from the previous view. Clicking on the song will lead to the media player.</string>
+    <string name="discoverActivity">You can discover new music and artists. This will be a search engine for new music, top tracks and album listings.\
+        Come here when you are bored with your music and want to discover some new bands or singers</string>
+    <string name="myMusicActivity">This will store all your music; albums, artists, playlits, and downloaded music.</string>
+    <string name="radioActivity">Will house the radio tuned to a station matching your choice from the previous view.</string>
+
+
+</resources>
