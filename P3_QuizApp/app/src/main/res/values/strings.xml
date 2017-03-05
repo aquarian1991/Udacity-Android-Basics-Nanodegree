@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="action_settings">Settings</string>
+    <string name="Question1">In which year was Udacity founded?</string>
+    <string name="Question2">Where is Udacity Headquartered?</string>
+    <string name="Question3">What were the first courses offered on Udacity?</string>
+    <string name="Question4">Who was the first industry partner to collaborate with Udacity on Nanodegree (ND) programs?</string>
+    <string name="Question5">Name the YouTube star Udacity has worked with for their Deep Learning ND course</string>
+    <string name="Question6">Who among the following are collaborating with Udacity on Self-Driving Car ND program?</string>
+    <string name="Answer1_Option1">2010</string>
+    <string name="Answer1_Option2">2011</string>
+    <string name="Answer1_Option3">2012</string>
+    <string name="Answer1_Option4">2014</string>
+    <string name="Answer2_Option1">Mountain View, USA</string>
+    <string name="Answer2_Option2">Berlin, DE</string>
+    <string name="Answer2_Option3">Bangalore, IN</string>
+    <string name="Answer2_Option4">London, UK</string>
+    <string name="Answer3_Option1">CS 101: Building a Search Engine</string>
+    <string name="Answer3_Option2">C2 50: Introduction to Computer Science</string>
+    <string name="Answer3_Option3">CS 373: Programming a Robotic Car</string>
+    <string name="Answer3_Option4"> CS231n: Convolutional Neural Networks for Visual Recognition</string>
+    <string name="Answer4_Option1">AT&amp;T</string>
+    <string name="Answer4_Option2">Facebook</string>
+    <string name="Answer4_Option3">Google</string>
+    <string name="Answer4_Option4">Bosch</string>
+    <string name="Answer5">Siraj Raval</string>
+    <string name="Answer6_Option1">BMW</string>
+    <string name="Answer6_Option2">Mercedes-Benz</string>
+    <string name="Answer6_Option3">Bosch</string>
+    <string name="Answer6_Option4">Nvidia</string>
+    <string name="Answer6_Option5">UBER ATG</string>
+    <string name="scoreToast1">Thank you for taking the Udacity Quiz. You have scored: </string>
+    <string name="scoreToast2">". Please scroll down for the correct answers."</string>
+    <string name="answerSummary">Udacity is a for-profit organization founded in the year 2011 by
+        Sebastian Thrun, David Stavens, and Mike Sokolsky. Headquartered in Mountain View, CA;
+        CS 101 and CS 371 were the first courses offered by this start-up.AT&amp;T joined hands
+        with Udacity in the year 2014 to start the Nanodegree program, and in the year 2016,
+        Udacity announced a nanodegree in the self-driving car technology with four hiring partners
+        (which has increased to nineteen and still counting). And the YouTube superstar is Siraj Raval.</string>
+</resources>
